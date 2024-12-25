@@ -13,7 +13,7 @@ export default function SideMenu() {
   const pathname = usePathname();
 
   return (
-    <nav className="w-64 bg-[#409eff] text-white">
+    <nav className="w-56 bg-[#409eff] text-white">
       <div className="p-4 text-xl font-bold">
         <Image 
           src="http://cq-front-common.cqslim.com/common/logos/logo-white.png" 
